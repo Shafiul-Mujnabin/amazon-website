@@ -1,0 +1,26 @@
+.welcome{
+    text-align: center;
+    padding: 60px;
+}
+
+.col .card{
+    box-shadow: 10px 10px 10px gray;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+}
+.services{
+    text-align: center;
+    padding: 50px;
+}
+
+.container{
+    text-align: center;
+}
